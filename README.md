@@ -1,4 +1,4 @@
-# NEOSIM — SIH26247 Simulation & Training Backend
+# NEOSIM —Simulation & Training Backend
 
 This repository follows the stack named in the submitted PPT: **Gazebo, PX4 SITL, ROS 2, uXRCE-DDS, MAVLink, and Python**. It deliberately excludes Unity.
 
