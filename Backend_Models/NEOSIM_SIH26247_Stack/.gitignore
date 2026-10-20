@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+.pytest_cache/
+model/artifacts/*.joblib
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
